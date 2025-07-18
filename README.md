@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Professor Brocker
+# 👋 Hi there, I'm Dave!
 
 **📍 Psychologist | 🧠 Curiosity Researcher | 💻 R/Shiny Enthusiast | 🎓 Educator**
 
